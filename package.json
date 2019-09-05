@@ -1,0 +1,24 @@
+{
+  "name": "401-lab-17-socketIO",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samgnuschke-401-advanced-javascript/401-lab-17-socketIO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samgnuschke-401-advanced-javascript/401-lab-17-socketIO/issues"
+  },
+  "homepage": "https://github.com/samgnuschke-401-advanced-javascript/401-lab-17-socketIO#readme",
+  "dependencies": {
+    "socket.io": "^2.2.0",
+    "socket.io-client": "^2.2.0"
+  }
+}
